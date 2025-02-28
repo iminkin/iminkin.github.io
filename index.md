@@ -7,8 +7,8 @@ layout: homepage
 I am a postdoctoral fellow with [Steven L. Salzberg](https://www.bme.jhu.edu/people/faculty/steven-l-salzberg/) at Johns Hopkins University.
 My current work is focused on improving gene annotations using evolutionary evidence.
 I also completed a Ph.D. with [Paul Medvedev](https://medvedevgroup.com/principal-investigator/) at Pennsylvania State University, where I performed research on genome graphs and whole-genome alignment.
-Prior to that, I graduated with an M.Sc. from Alferov University (former Saint-Petersburg Academic University) in Saint-Peterburg, Russia.
-My master's thesis focused in synteny detection in bacterial genomes using de Bruijn grahps, a project supervised by [Son Pham](https://cseweb.ucsd.edu/~kspham/).
+Before that, I graduated with an M.Sc. from Alferov University (formerly Saint-Petersburg Academic University) in Saint-Peterburg, Russia.
+My master's thesis focused on synteny detection in bacterial genomes using de Bruijn graphs, a project supervised by [Son Pham](https://cseweb.ucsd.edu/~kspham/).
 In between my Ph.D. and M.Sc. studies, I worked as a Research Assistant in the group of [Francis Chin](https://www.cs.hku.hk/index.php/people/academic-staff/chin) at the University of Hong Kong.
 
 
@@ -18,13 +18,13 @@ In between my Ph.D. and M.Sc. studies, I worked as a Research Assistant in the g
 
 ## Selected Research Projects
 
-- **Quality assessment of splice site annotation based on conservation across multiple species**
+- **Conservation assessment of human splice site annotation based on a 470-genome alignment**
   <br>
   **Ilia Minkin**, Steven Salzberg
   <br>
-  bioRxiv, 2023
+  To appear in Nucleic Acid Research, 2025
   <br>
-  [[Paper](https://www.biorxiv.org/content/10.1101/2023.12.01.569581v1.abstract)]
+  [[Paper](https://www.biorxiv.org/content/10.1101/2023.12.01.569581v3.abstract)] [[Code](https://github.com/iminkin/splice-sites-conservation)]
 
 
 - **Scalable multiple whole-genome alignment and locally collinear block construction with SibeliaZ**
