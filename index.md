@@ -4,10 +4,10 @@ layout: homepage
 
 ## Bio
 
-I am a postdoctoral fellow with [Steven L. Salzberg](https://www.bme.jhu.edu/people/faculty/steven-l-salzberg/) at Johns Hopkins University.
-My current work is focused on improving gene annotations using evolutionary evidence.
+I am currently a postdoctoral associate at Broad Institute of MIT and Harvard in Victoria Popic's group.
+Previously, I was a postdoctoral fellow with [Steven L. Salzberg](https://www.bme.jhu.edu/people/faculty/steven-l-salzberg/) at Johns Hopkins University, where I worked on improving gene annotations using evolutionary evidence.
 I also completed a Ph.D. with [Paul Medvedev](https://medvedevgroup.com/principal-investigator/) at Pennsylvania State University, where I performed research on genome graphs and whole-genome alignment.
-Before that, I graduated with an M.Sc. from Alferov University (formerly Saint-Petersburg Academic University) in Saint-Peterburg, Russia.
+Before that, I graduated with an M.Sc. from Alferov University (formerly Saint-Petersburg Academic University) in Saint-Petersburg, Russia.
 My master's thesis focused on synteny detection in bacterial genomes using de Bruijn graphs, a project supervised by [Son Pham](https://cseweb.ucsd.edu/~kspham/).
 In between my Ph.D. and M.Sc. studies, I worked as a Research Assistant in the group of [Francis Chin](https://www.cs.hku.hk/index.php/people/academic-staff/chin) at the University of Hong Kong.
 
@@ -22,9 +22,9 @@ In between my Ph.D. and M.Sc. studies, I worked as a Research Assistant in the g
   <br>
   **Ilia Minkin**, Steven Salzberg
   <br>
-  To appear in Nucleic Acid Research, 2025
+  Nucleic Acid Research, 2025
   <br>
-  [[Paper](https://www.biorxiv.org/content/10.1101/2023.12.01.569581v3.abstract)] [[Code](https://github.com/iminkin/splice-sites-conservation)]
+  [[Paper](https://academic.oup.com/nar/article/53/6/gkaf184/8090308)] [[Code](https://github.com/iminkin/splice-sites-conservation)]
 
 
 - **Scalable multiple whole-genome alignment and locally collinear block construction with SibeliaZ**
